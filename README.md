@@ -25,8 +25,8 @@ Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha pai
 ## 📊 GitHub Stats  
 
 <div align="center" style="display: inline_block">  
-    <img width="500cm" height="200cm" src="https://github-readme-stats.vercel.app/api?username=gabrielmiilanez&show_icons=true&theme=dracula" />
-    <img width="500cm" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiilanez&layout=compact&theme=dracula" />
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api?username=gabrielmiilanez&show_icons=true&theme=dracula" />
+    <img height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiilanez&layout=compact&theme=dracula" />
 </div>
 
 ---
