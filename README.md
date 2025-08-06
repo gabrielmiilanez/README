@@ -42,6 +42,7 @@ Você pode entrar em contato comigo através dos seguintes canais:
   <a href="https://api.whatsapp.com/send?phone=5581982301817&text=Fala%20Gabriel%2C%20Bom%20dia!" target="_blank"><img align="center" alt="WhattsApp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  /></a>
 </div>
 
+<br>
 A gente se vê por aí!
 
 </div>
